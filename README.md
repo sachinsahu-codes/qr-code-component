@@ -9,13 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Scripts](#available-scripts)
 
 ## Overview
 
@@ -26,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [repo](https://github.com/sachinsahu-codes/qr-code-component)
+- Live Site URL: [live site](https://6315ac21e3237b220cc19cb2--courageous-trifle-068b1e.netlify.app/)
 
 ## My process
 
@@ -39,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sachinsahu-codes)
+- Frontend Mentor - [@sachinsahu-codes](https://www.frontendmentor.io/profile/sachinsahu-codes)
 
 ## Available Scripts
 
